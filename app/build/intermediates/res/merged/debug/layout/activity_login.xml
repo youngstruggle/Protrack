@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.nana.protrack.LoginActivity">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Login"
+        android:textAlignment="center"
+        android:textSize="50dp" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Username: "
+            android:textAlignment="center"
+            android:textSize="20dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="#000000" />
+
+        <EditText
+            android:id="@+id/username"
+            android:layout_marginTop="10dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@android:color/transparent"
+            android:drawablePadding="15px"
+            android:drawableTint="#c4c4c4"
+            android:hint="Enter Username"
+            android:padding="10dp"
+            android:textColor="#c4c4c4"
+            android:textColorHint="#c4c4c4" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="#000000" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Password: "
+            android:textAlignment="center"
+            android:textSize="20dp" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:background="#000000" />
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_marginTop="10dp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:background="@android:color/transparent"
+            android:drawablePadding="15px"
+            android:drawableTint="#FFFFFF"
+            android:hint="Enter Password"
+            android:inputType="textPassword"
+            android:padding="10dp"
+            android:textColor="#c4c4c4"
+            android:textColorHint="#c4c4c4" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="1px"
+            android:layout_marginBottom="10dp"
+            android:background="#000000" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_marginTop="10dp"
+            android:layout_height="1px"
+            android:background="#000000" />
+
+        <!--<EditText-->
+        <!--android:id="@+id/url_address"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_marginBottom="10dp"-->
+        <!--android:background="@android:color/transparent"-->
+        <!--android:hint="URL"-->
+        <!--android:padding="10dp"-->
+        <!--android:drawableLeft="@drawable/ic_web"-->
+        <!--android:drawablePadding="15px"-->
+        <!--android:drawableTint="#FFFFFF"-->
+        <!--android:textColor="#FFFFFF"-->
+        <!--android:textColorHint="#c4c4c4" />-->
+
+        <!--<View-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="1px"-->
+        <!--android:background="#FFFFFF"/>-->
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingLeft="6px">
+
+            <CheckBox
+                android:id="@+id/checkRemember"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:buttonTint="#000000"
+                android:paddingTop="60px" />
+
+            <TextView
+                android:id="@+id/txtRememberMe"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:paddingLeft="65px"
+                android:paddingTop="30px"
+                android:text="Remember Me"
+                android:textColor="#000000"
+                android:textSize="14dp" />
+        </RelativeLayout>
+
+        <!-- Login Button -->
+        <Button
+            android:id="@+id/btnLogin"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:background="#e60000"
+            android:text="LOGIN"
+            android:textColor="#FFFFFF" />
+        <!-- Link to Login Screen -->
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="5px"
+            android:layout_marginTop="10dp"
+            android:background="#e60000" />
+
+        <TextView
+            android:id="@+id/txtResult"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text=""
+            android:textColor="#FFFFFF"
+            android:textSize="26dp" />
+
+        <ProgressBar
+            android:id="@+id/progressBar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+</LinearLayout>

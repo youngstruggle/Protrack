@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bgimage"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp"
+    tools:context="com.nana.protrack.MainActivity">
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="64dp"
+        android:layout_height="76dp"
+        app:srcCompat="@drawable/indisch_logo" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp" >
+
+    <TextView
+        android:id="@+id/txtView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp"
+        android:gravity="center"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp" />
+
+    </LinearLayout>
+</LinearLayout>

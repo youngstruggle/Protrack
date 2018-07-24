@@ -1,0 +1,7 @@
+#Wed Jul 25 00:13:42 ICT 2018
+base.0=E\:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38702165a03b5f6ae1e200620b788660020e598a
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad6ff3f2de23225f5a894ccbd925a8a4d35afc7b\\classes.dex
+base.1=E\:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ad6ff3f2de23225f5a894ccbd925a8a4d35afc7b
+file.0=E\:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_38702165a03b5f6ae1e200620b788660020e598a\\classes.dex

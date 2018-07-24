@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_web.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_web.png"
+    },
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher_round.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_setting.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_setting.png"
+    },
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\bgimage.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\src\\main\\res\\drawable-mdpi\\bgimage.png"
+    },
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\indisch_logo_round.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\src\\main\\res\\drawable-mdpi\\indisch_logo_round.png"
+    },
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_refresh.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\refresh.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\src\\main\\res\\drawable-mdpi\\refresh.png"
+    },
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_person.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_person.png"
+    },
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_lock_.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_lock_.png"
+    }
+]

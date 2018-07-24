@@ -1,0 +1,123 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.CAMERA
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:6:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:10:22-78
+application
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:12:5-38:19
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Nana Febriana\.android\build-cache\bfb07ff70e88107f063b491487abeb388d183c08\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Nana Febriana\.android\build-cache\d4eaab8245ce35d776623fd9004406363882ad72\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Nana Febriana\.android\build-cache\ffd31e3a5b9f7e0cb9e6a100579d479658b17c93\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Nana Febriana\.android\build-cache\d98c6357f7a523c264f5a364b59eb62534ecb4c0\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Nana Febriana\.android\build-cache\0cbd9e85fa226705a524e5ca43c9ccb827136604\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Nana Febriana\.android\build-cache\a4f925e5d1da75b8bda872ab2c6f7a638c7b7f0d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Nana Febriana\.android\build-cache\fc183f5b91406b7a5b632cbf6794bd352cb5a9c0\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Nana Febriana\.android\build-cache\b68d382fae2d2b9c93c54458bcf4b7faa0b48763\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Nana Febriana\.android\build-cache\82884b9f1845b6bd0492ed9817f51bd8a45938d2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nana Febriana\.android\build-cache\4813219fd7943b338138abac8f2115d98016e448\output\AndroidManifest.xml:9:5-20
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Nana Febriana\.android\build-cache\9fef8bb9b4a2e52f639105fb2d65e019026386ad\output\AndroidManifest.xml:5:5-19
+	android:label
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:17:9-35
+	android:allowBackup
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:15:9-46
+	android:theme
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:18:9-40
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:13:9-38
+activity#com.nana.protrack.MainActivity
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:19:9-24:20
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:19:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.nana.protrack.LoginActivity
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:25:19-48
+activity#com.nana.protrack.WebViewActivity
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:26:9-29:52
+	android:screenOrientation
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:29:13-49
+	android:configChanges
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:28:13-74
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:27:13-44
+activity#com.nana.protrack.ErrorActivity
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:30:9-51
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:30:19-48
+service#com.nana.protrack.MyService
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:35:9-46
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:35:18-43
+activity#com.nana.protrack.CheckLoationActivity
+ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:37:9-67
+	android:name
+		ADDED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml:37:19-55
+uses-sdk
+INJECTED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Nana Febriana\.android\build-cache\bfb07ff70e88107f063b491487abeb388d183c08\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.0] C:\Users\Nana Febriana\.android\build-cache\d4eaab8245ce35d776623fd9004406363882ad72\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.0.0] C:\Users\Nana Febriana\.android\build-cache\ffd31e3a5b9f7e0cb9e6a100579d479658b17c93\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.0.0] C:\Users\Nana Febriana\.android\build-cache\d98c6357f7a523c264f5a364b59eb62534ecb4c0\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.0.0] C:\Users\Nana Febriana\.android\build-cache\0cbd9e85fa226705a524e5ca43c9ccb827136604\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.0.0] C:\Users\Nana Febriana\.android\build-cache\a4f925e5d1da75b8bda872ab2c6f7a638c7b7f0d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.0.0] C:\Users\Nana Febriana\.android\build-cache\fc183f5b91406b7a5b632cbf6794bd352cb5a9c0\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.0.0] C:\Users\Nana Febriana\.android\build-cache\b68d382fae2d2b9c93c54458bcf4b7faa0b48763\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.0.0] C:\Users\Nana Febriana\.android\build-cache\82884b9f1845b6bd0492ed9817f51bd8a45938d2\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nana Febriana\.android\build-cache\4813219fd7943b338138abac8f2115d98016e448\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.mcxiaoke.volley:library-aar:1.0.0] C:\Users\Nana Febriana\.android\build-cache\9fef8bb9b4a2e52f639105fb2d65e019026386ad\output\AndroidManifest.xml:3:5-72
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.0] C:\Users\Nana Febriana\.android\build-cache\bfb07ff70e88107f063b491487abeb388d183c08\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidFundamentalProject\LIndisch-20180724T144001Z-001\LIndisch\app\src\main\AndroidManifest.xml

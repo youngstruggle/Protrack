@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "E:\\AndroidFundamentalProject\\LIndisch-20180724T144001Z-001\\LIndisch\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    }
+]
